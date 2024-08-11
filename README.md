@@ -36,9 +36,6 @@ Here we are examining relation between two variables, months_as_members and atte
 The correlation between categories and high attendance rates among fitness club members has of great importance. The key points are broken out as follows: 
 The fitness center may improve member satisfaction and engagement by customizing event schedules to suit the preferences of frequent participants. Employing successful marketing strategies will showcase the club's appealing atmosphere and aid recruiting new members. By allocating resources based on high-attendance categories, the club can optimize member experiences and resource use. Extending offerings and concentrating on high-attendance regions can also improve community engagement and club loyalty. This will encourage new members and maintain the interest of current ones.
  
-The above graph represents the relation between category and count, describing count of students who attend and miss classes in each category. Majority indicating that most classes are left unattended. HIIT category has more count as compared to other categories so it has likely more attendance than the other category.
- 
-Above is the graph “percentage of attendance by category” representing percentage of each category that attends or miss classes. “Aqua” has high rate of attendance of “32.9%”.
 ### PREPROCESSING
 
 Data Wrangling: Preparing the Dataset for In-Depth Analysis:
